@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="93529f359755711078b6faafe153afe4" extends="cmdb_ci" label="Projectors" max_length="40" name="x_1100479_projecto_u_cmdb_ci_projectors" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Status" max_length="40" name="status" type="string" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false" label="available" value="1"/>
+                <element inactive_on_update="false" label="ready to collect" value="3"/>
+                <element inactive_on_update="false" label="rented" value="4"/>
+                <element inactive_on_update="false" label="unavailable" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

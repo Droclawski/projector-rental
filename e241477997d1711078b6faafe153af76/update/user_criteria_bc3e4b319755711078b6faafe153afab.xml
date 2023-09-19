@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group/>
+        <location/>
+        <match_all>false</match_all>
+        <name>Users with 'x_1100479_projecto.rent_employee' role</name>
+        <role name="x_1100479_projecto.rent_employee">01420b359715711078b6faafe153af0b</role>
+        <script><![CDATA[/** Scripted User Criteria is not cached, and evaluated everytime, so performance is dependent on the script.
+* Populate `answer` with true/false or evaluate to true/false
+* The script is evaluated in the scope the user criteria is defined
+* Don't use `current` in the script or populate the variable
+* Don't use `gs.getUser()` or  `gs.getUserID()`, 
+* instead use `user_id` which contains the user sys_id against whom the evaluation is happening.
+*/]]></script>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-16 13:07:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bc3e4b319755711078b6faafe153afab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Users with 'x_1100479_projecto.rent_employee' role</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>user_criteria_bc3e4b319755711078b6faafe153afab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-16 13:07:19</sys_updated_on>
+        <user/>
+    </user_criteria>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Rent a projector">e4ac033d9715711078b6faafe153afbc</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-16 13:07:24</sys_created_on>
+        <sys_id>72ad43719755711078b6faafe153af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rent a projector.Users with 'x_1100479_projecto.rent_employee' role</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_72ad43719755711078b6faafe153af20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-16 13:07:24</sys_updated_on>
+        <user_criteria display_value="Users with 'x_1100479_projecto.rent_employee' role">bc3e4b319755711078b6faafe153afab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

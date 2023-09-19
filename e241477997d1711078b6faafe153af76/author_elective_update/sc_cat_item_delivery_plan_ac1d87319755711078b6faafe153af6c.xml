@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_delivery_plan">
+    <sc_cat_item_delivery_plan action="DELETE">
+        <active>true</active>
+        <advanced>true</advanced>
+        <calendar/>
+        <condition/>
+        <name>test</name>
+        <order>100</order>
+        <parent_table>sc_req_item</parent_table>
+        <script/>
+        <short_description>test</short_description>
+        <sys_class_name>sc_cat_item_delivery_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-16 13:00:51</sys_created_on>
+        <sys_id>ac1d87319755711078b6faafe153af6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>sc_cat_item_delivery_plan_ac1d87319755711078b6faafe153af6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-16 13:00:51</sys_updated_on>
+        <task_table>sc_task</task_table>
+        <total_delivery_time/>
+    </sc_cat_item_delivery_plan>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Projector rental">e241477997d1711078b6faafe153af76</application>
+        <file_path/>
+        <instance_id>97a839a7dbcc73400b9d21c4059619ac</instance_id>
+        <instance_name>dev74730</instance_name>
+        <name>sc_cat_item_delivery_plan_ac1d87319755711078b6faafe153af6c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_delivery_plan"><sc_cat_item_delivery_plan action="INSERT_OR_UPDATE"><active>true</active><advanced>true</advanced><calendar/><condition/><name>test</name><order>100</order><parent_table>sc_req_item</parent_table><script/><short_description>test</short_description><sys_class_name>sc_cat_item_delivery_plan</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-16 13:00:51</sys_created_on><sys_id>ac1d87319755711078b6faafe153af6c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package><sys_policy/><sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope><sys_update_name>sc_cat_item_delivery_plan_ac1d87319755711078b6faafe153af6c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-16 13:00:51</sys_updated_on><task_table>sc_task</task_table><total_delivery_time/></sc_cat_item_delivery_plan></record_update>]]></payload>
+        <payload_hash>-134704431</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>e241477997d1711078b6faafe153af78</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-16 13:00:51</sys_created_on>
+        <sys_id>f72d0b319755711078b6faafe153af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a9e1466db0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-16 13:00:51</sys_updated_on>
+        <type>Execution Plan</type>
+        <update_guid>3f2d0b31525571103f6a45f4e7d8b479</update_guid>
+        <update_guid_history>3f2d0b31525571103f6a45f4e7d8b479:-134704431</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="test">e96d0f319755711078b6faafe153af48</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-16 13:01:47</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_delivery_plan">sc_cat_item_delivery_plan</sys_db_object>
+        <sys_id>6d056942644745b8835106aa4fc17909</sys_id>
+        <sys_metadata>ac1d87319755711078b6faafe153af6c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_scope_delete display_value="">008e4ad773d54f948001eeefeb7d0f51</sys_scope_delete>
+        <sys_update_name>sc_cat_item_delivery_plan_ac1d87319755711078b6faafe153af6c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_delivery_plan_ac1d87319755711078b6faafe153af6c">f72d0b319755711078b6faafe153af7a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-16 13:01:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
