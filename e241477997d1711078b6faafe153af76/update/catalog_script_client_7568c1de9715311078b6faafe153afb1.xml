@@ -18,23 +18,30 @@
         <name>Projector availability check</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
-   if (isLoading || newValue == '') {
-      return;
-   }
-var startDate = g_form.getValue('rent');
-var endDate = g_form.getValue('return');
-/*var sDevice = g_form.getValue('select_device');*/
+    if (isLoading || newValue == '') {
+        return;
+    }
+    var startDate = g_form.getValue('rent');
+    var endDate = g_form.getValue('return');
+    /*var sDevice = g_form.getValue('select_device');*/
 
-var ga = new GlideAjax('IsDeviceRented');
-ga.addParam('sysparm_name','availableCIs');
-ga.addParam('sysparm_start', startDate);
-ga.addParam('sysparm_end', endDate);
-ga.addParam('sysparm_device', newValue);
-ga.getXMLAnswer(isAvailable);
+    var ga = new GlideAjax('IsDeviceRented');
 
-function isAvailable(response) {
-	alert('response: ' + response);
-}
+    ga.addParam('sysparm_name', 'availableCIs');
+    ga.addParam('sysparm_start', startDate);
+    ga.addParam('sysparm_end', endDate);
+    ga.addParam('sysparm_device', newValue);
+    ga.getXMLAnswer(function(answer) {
+        // Handle the response
+        var reply = answer;
+        if (reply == 'true') {
+            g_form.addInfoMessage('The selected device is available on this dates.');
+        } 
+		else {
+			g_form.clearValue('select_device');
+            g_form.addInfoMessage('Selected device is not available on this dates. Change your dates or pick choose another device.');
+        }
+    });
 }]]></script>
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -42,7 +49,7 @@ function isAvailable(response) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7568c1de9715311078b6faafe153afb1</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_name>Projector availability check</sys_name>
         <sys_overrides/>
         <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
@@ -50,7 +57,7 @@ function isAvailable(response) {
         <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
         <sys_update_name>catalog_script_client_7568c1de9715311078b6faafe153afb1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-18 12:53:34</sys_updated_on>
+        <sys_updated_on>2023-09-20 07:13:25</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>

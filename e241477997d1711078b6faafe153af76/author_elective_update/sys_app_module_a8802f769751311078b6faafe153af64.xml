@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Rental">00e58b399715711078b6faafe153afc0</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>sys_users</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1100479_projecto_sys_user</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-19 16:59:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8802f769751311078b6faafe153af64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_users</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>sys_app_module_a8802f769751311078b6faafe153af64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-19 16:59:12</sys_updated_on>
+        <timeline_page/>
+        <title>sys_users</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Projector rental">e241477997d1711078b6faafe153af76</application>
+        <file_path/>
+        <instance_id>97a839a7dbcc73400b9d21c4059619ac</instance_id>
+        <instance_name>dev74730</instance_name>
+        <name>sys_app_module_a8802f769751311078b6faafe153af64</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Rental">00e58b399715711078b6faafe153afc0</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>sys_users</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1100479_projecto_sys_user</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-19 16:59:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a8802f769751311078b6faafe153af64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_users</sys_name><sys_overrides/><sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package><sys_policy/><sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope><sys_update_name>sys_app_module_a8802f769751311078b6faafe153af64</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-19 16:59:12</sys_updated_on><timeline_page/><title>sys_users</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>34098355</payload_hash>
+        <record_name>sys_users</record_name>
+        <reverted_from/>
+        <source>6dcd17f29751311078b6faafe153afcd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-19 16:59:12</sys_created_on>
+        <sys_id>a08063b69751311078b6faafe153af50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aae61b0f80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-19 16:59:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e48063b654513110bdb06a5d6705964f</update_guid>
+        <update_guid_history>e48063b654513110bdb06a5d6705964f:34098355</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sys_users">7252eb7a9751311078b6faafe153afc3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-19 17:07:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>509ab85cf81d4baa86e883fa4133d004</sys_id>
+        <sys_metadata>a8802f769751311078b6faafe153af64</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_users</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_scope_delete display_value="">008e4ad773d54f948001eeefeb7d0f51</sys_scope_delete>
+        <sys_update_name>sys_app_module_a8802f769751311078b6faafe153af64</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a8802f769751311078b6faafe153af64">a08063b69751311078b6faafe153af50</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-19 17:07:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

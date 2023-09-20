@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Rental">00e58b399715711078b6faafe153afc0</application>
+        <application display_value="Projector rental">28f61c039755311078b6faafe153afba</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -10,31 +10,31 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>All</mobile_title>
+        <mobile_title>Projectors</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_1100479_projecto_rentals</name>
-        <order>3</order>
+        <name>x_1100479_projecto_u_cmdb_ci_projectors</name>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-09-16 12:28:55</sys_created_on>
+        <sys_created_on>2023-09-19 21:00:47</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>4ce543799715711078b6faafe153af96</sys_id>
+        <sys_id>a0a7d4039755311078b6faafe153afa5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_name>Projectors</sys_name>
         <sys_overrides/>
         <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
         <sys_policy/>
         <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
-        <sys_update_name>sys_app_module_4ce543799715711078b6faafe153af96</sys_update_name>
+        <sys_update_name>sys_app_module_a0a7d4039755311078b6faafe153afa5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-16 12:28:55</sys_updated_on>
+        <sys_updated_on>2023-09-19 21:00:47</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Projectors</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
