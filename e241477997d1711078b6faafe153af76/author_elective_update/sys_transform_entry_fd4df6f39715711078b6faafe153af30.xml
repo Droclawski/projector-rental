@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="u_imp_tmpl_x_1100479_projecto_u_cmdb_ci_projectors">a14d36b39715711078b6faafe153af3f</map>
+        <reference_value_field/>
+        <source_field/>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>u_imp_tmpl_x_1100479_projecto_u_cmdb_ci_projectors</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 16:59:12</sys_created_on>
+        <sys_id>fd4df6f39715711078b6faafe153af30</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>sys_transform_entry_fd4df6f39715711078b6faafe153af30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 18:54:28</sys_updated_on>
+        <target_field>model_number</target_field>
+        <target_table>x_1100479_projecto_u_cmdb_ci_projectors</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Projector rental">e241477997d1711078b6faafe153af76</application>
+        <file_path/>
+        <instance_id>97a839a7dbcc73400b9d21c4059619ac</instance_id>
+        <instance_name>dev74730</instance_name>
+        <name>sys_transform_entry_fd4df6f39715711078b6faafe153af30</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="u_imp_tmpl_x_1100479_projecto_u_cmdb_ci_projectors"&gt;a14d36b39715711078b6faafe153af3f&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field/&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_imp_tmpl_x_1100479_projecto_u_cmdb_ci_projectors&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-09-22 16:59:12&lt;/sys_created_on&gt;&lt;sys_id&gt;fd4df6f39715711078b6faafe153af30&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Projector rental" source="x_1100479_projecto"&gt;e241477997d1711078b6faafe153af76&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Projector rental"&gt;e241477997d1711078b6faafe153af76&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_fd4df6f39715711078b6faafe153af30&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-09-26 18:54:28&lt;/sys_updated_on&gt;&lt;target_field&gt;model_number&lt;/target_field&gt;&lt;target_table&gt;x_1100479_projecto_u_cmdb_ci_projectors&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1319728403</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e3f8909f9715311078b6faafe153af43</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 18:54:28</sys_created_on>
+        <sys_id>d10ebfc59769311078b6faafe153afc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad2d7bc430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 18:54:28</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>590ebfc5e76931100faaf445a078c2c1</update_guid>
+        <update_guid_history>590ebfc5e76931100faaf445a078c2c1:1319728403,92fdf7c149693110c09a9fd834465984:-199930218,bd4df6f3191571108cec5d0aaf5e5e31:617442796</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 18:55:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>32f819957e1948aa979fc2b50dc70be4</sys_id>
+        <sys_metadata>fd4df6f39715711078b6faafe153af30</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_scope_delete display_value="">008e4ad773d54f948001eeefeb7d0f51</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_fd4df6f39715711078b6faafe153af30</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_fd4df6f39715711078b6faafe153af30">d10ebfc59769311078b6faafe153afc2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 18:55:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
