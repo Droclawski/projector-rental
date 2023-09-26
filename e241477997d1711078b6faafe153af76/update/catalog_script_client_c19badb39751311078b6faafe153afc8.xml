@@ -38,10 +38,10 @@
         var reply = JSON.parse(answer);
 
         if (reply == true) {
-            g_form.addInfoMessage('The selected device is available on these dates.');
+            g_form.addInfoMessage('Selected device is available.');
         } else {
             g_form.clearValue('select_device');
-            g_form.addInfoMessage('The selected device is not available on these dates. Please change your dates or choose another device.');
+            g_form.addInfoMessage('Selected device is not available. Please change your dates or choose another device.');
         }
     }
 }]]></script>
@@ -51,7 +51,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c19badb39751311078b6faafe153afc8</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Projector availability check</sys_name>
         <sys_overrides/>
         <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
@@ -59,7 +59,7 @@
         <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
         <sys_update_name>catalog_script_client_c19badb39751311078b6faafe153afc8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-23 16:26:45</sys_updated_on>
+        <sys_updated_on>2023-09-26 13:37:30</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>

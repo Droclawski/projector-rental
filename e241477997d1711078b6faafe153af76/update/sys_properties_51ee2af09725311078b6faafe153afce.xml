@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Rents activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_1100479_projecto_rentals_activity.fields</name>
+        <read_roles/>
+        <suffix>x_1100479_projecto</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 18:30:17</sys_created_on>
+        <sys_id>51ee2af09725311078b6faafe153afce</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>glide.ui.x_1100479_projecto_rentals_activity.fields</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>sys_properties_51ee2af09725311078b6faafe153afce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 20:07:39</sys_updated_on>
+        <type>string</type>
+        <value>active,start_date,end_date,sys_created_on,sys_created_by,device,number_2,requester,sys_updated_on,sys_mod_count,sys_updated_by,*Sidebar discussion*,*Sidebar posted message*,*Attachments*,u_journal_2</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=51ee2af09725311078b6faafe153afce"/>
+</record_update>

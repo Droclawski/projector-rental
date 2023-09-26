@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_journal_2" label="Add comment" language="en" table="x_1100479_projecto_rentals">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_journal_2</element>
+            <help/>
+            <hint/>
+            <label>Add comment</label>
+            <language>en</language>
+            <name>x_1100479_projecto_rentals</name>
+            <plural>Add comments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 20:07:01</sys_created_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Add comment</sys_name>
+            <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+            <sys_update_name>sys_documentation_x_1100479_projecto_rentals_u_journal_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-26 09:21:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

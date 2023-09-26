@@ -2,17 +2,17 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-09-16 12:27:01</sys_created_on>
-        <sys_id>14758b399715711078b6faafe153af42</sys_id>
+        <sys_created_on>2023-09-25 17:41:18</sys_created_on>
+        <sys_id>ffa3ee3897e1311078b6faafe153afb0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1100479_projecto_rentals.x_1100479_projecto.it_rental</sys_name>
+        <sys_name>.x_1100479_projecto.it_rental</sys_name>
         <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
         <sys_policy/>
         <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
-        <sys_security_acl display_value="x_1100479_projecto_rentals">5c754bf19715711078b6faafe153af1b</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_14758b399715711078b6faafe153af42</sys_update_name>
+        <sys_security_acl display_value="x_1100479_projecto_rentals.device">7ba3ee3897e1311078b6faafe153afb0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ffa3ee3897e1311078b6faafe153afb0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-16 12:27:01</sys_updated_on>
+        <sys_updated_on>2023-09-25 17:41:18</sys_updated_on>
         <sys_user_role display_value="x_1100479_projecto.it_rental" name="x_1100479_projecto.it_rental">384283759715711078b6faafe153af56</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>

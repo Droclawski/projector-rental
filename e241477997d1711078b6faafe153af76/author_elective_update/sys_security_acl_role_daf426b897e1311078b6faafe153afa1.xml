@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 17:46:56</sys_created_on>
+        <sys_id>daf426b897e1311078b6faafe153afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1100479_projecto.it_rental</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_security_acl display_value="">56f426b897e1311078b6faafe153afa1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_daf426b897e1311078b6faafe153afa1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 17:46:56</sys_updated_on>
+        <sys_user_role display_value="x_1100479_projecto.it_rental" name="x_1100479_projecto.it_rental">384283759715711078b6faafe153af56</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Projector rental">e241477997d1711078b6faafe153af76</application>
+        <file_path/>
+        <instance_id>97a839a7dbcc73400b9d21c4059619ac</instance_id>
+        <instance_name>dev74730</instance_name>
+        <name>sys_security_acl_role_daf426b897e1311078b6faafe153afa1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-25 17:46:56</sys_created_on><sys_id>daf426b897e1311078b6faafe153afa1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1100479_projecto.it_rental</sys_name><sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package><sys_policy/><sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope><sys_security_acl display_value="">56f426b897e1311078b6faafe153afa1</sys_security_acl><sys_update_name>sys_security_acl_role_daf426b897e1311078b6faafe153afa1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-25 17:46:56</sys_updated_on><sys_user_role display_value="x_1100479_projecto.it_rental" name="x_1100479_projecto.it_rental">384283759715711078b6faafe153af56</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1298085136</payload_hash>
+        <record_name>.x_1100479_projecto.it_rental</record_name>
+        <reverted_from/>
+        <source>e3f8909f9715311078b6faafe153af43</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 17:46:56</sys_created_on>
+        <sys_id>92f426b897e1311078b6faafe153afa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18acd738bc10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 17:46:56</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d6f426b8d1e1311006b99543810dd6a3</update_guid>
+        <update_guid_history>d6f426b8d1e1311006b99543810dd6a3:1298085136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1100479_projecto.it_rental">d835e67897e1311078b6faafe153af1a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 17:47:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>03ce5c615b8048b4bdd35f16fddb4b64</sys_id>
+        <sys_metadata>daf426b897e1311078b6faafe153afa1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1100479_projecto.it_rental</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_parent display_value="x_1100479_projecto_u_cmdb_ci_projectors.status">56f426b897e1311078b6faafe153afa1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_scope_delete display_value="">008e4ad773d54f948001eeefeb7d0f51</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_daf426b897e1311078b6faafe153afa1</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_daf426b897e1311078b6faafe153afa1">92f426b897e1311078b6faafe153afa4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 17:47:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
